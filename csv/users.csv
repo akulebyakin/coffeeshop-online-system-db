@@ -1,0 +1,11 @@
+name,email,password,phone,address
+Alice Smith,alice@example.com,password123,1234567890,123 Main St
+Bob Johnson,bob@example.com,password123,1234567891,456 Oak St
+Charlie Davis,charlie@example.com,password123,1234567892,789 Pine St
+Diana Evans,diana@example.com,password123,1234567893,321 Maple St
+Evan Foster,evan@example.com,password123,1234567894,654 Birch St
+Fiona Green,fiona@example.com,password123,1234567895,987 Cedar St
+George Harris,george@example.com,password123,1234567896,246 Elm St
+Hannah Ingram,hannah@example.com,password123,1234567897,135 Spruce St
+Ian Johnson,ian@example.com,password123,1234567898,579 Willow St
+Julia King,julia@example.com,password123,1234567899,864 Aspen St
