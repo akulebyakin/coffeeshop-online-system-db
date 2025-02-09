@@ -1,11 +1,11 @@
-user_id,product_id,quantity
-1,2,1
-2,3,2
-3,4,1
-4,5,3
-5,6,1
-6,7,2
-7,8,1
-8,9,2
-9,10,1
-10,1,2
+user_email,product,quantity
+alice@example.com,Latte,1
+bob@example.com,Green Tea,2
+charlie@example.com,Croissant,1
+diana@example.com,Ham Sandwich,3
+evan@example.com,Berry Smoothie,1
+fiona@example.com,Caesar Salad,2
+george@example.com,Chocolate Bar,1
+hannah@example.com,Cheesecake,2
+ian@example.com,Pancakes,1
+julia@example.com,Espresso,2

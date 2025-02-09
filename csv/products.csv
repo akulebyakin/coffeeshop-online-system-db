@@ -1,11 +1,11 @@
 name,description,price,category_id
-Espresso,Strong black coffee,150,1
-Latte,Coffee with milk,200,1
-Green Tea,Refreshing green tea,120,2
-Croissant,Flaky buttery pastry,180,3
-Ham Sandwich,Ham and cheese sandwich,250,4
-Berry Smoothie,Mixed berry smoothie,220,5
-Caesar Salad,Classic Caesar salad,300,6
-Chocolate Bar,Sweet chocolate snack,100,7
-Cheesecake,Creamy cheesecake slice,350,8
-Pancakes,Fluffy pancakes with syrup,270,9
+Espresso,Strong black coffee,150,Coffee
+Latte,Coffee with milk,200,Coffee
+Green Tea,Refreshing green tea,120,Tea
+Croissant,Flaky buttery pastry,180,Pastries
+Ham Sandwich,Ham and cheese sandwich,250,Sandwiches
+Berry Smoothie,Mixed berry smoothie,220,Smoothies
+Caesar Salad,Classic Caesar salad,300,Salads
+Chocolate Bar,Sweet chocolate snack,100,Snacks
+Cheesecake,Creamy cheesecake slice,350,Desserts
+Pancakes,Fluffy pancakes with syrup,270,Breakfast
